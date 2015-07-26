@@ -44,4 +44,5 @@ cacheSolve <- function(x, ...) {
   inverse
     ## if the inversion is not cached, this computes the inversion, caches it,
     ## and returns the inverted matrix
+        ## Return a matrix that is the inverse of 'x'
 }
